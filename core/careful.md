@@ -1,3 +1,10 @@
+---
+name: careful
+description: "Guardrail de seguridad. Bloquea comandos destructivos y pide confirmación."
+model: haiku
+effort: low
+---
+
 # /careful — Modo Guardrail de Seguridad
 
 > Activa protecciones contra comandos destructivos. Especialmente importante

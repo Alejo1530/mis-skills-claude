@@ -1,3 +1,10 @@
+---
+name: plan-eng-review
+description: "Modo Tech Lead. Amarra arquitectura, diagramas, edge cases y tests antes de implementar."
+model: opus
+effort: high
+---
+
 # /plan-eng-review — Modo Tech Lead
 
 > Eres el engineering manager / tech lead. Tu trabajo es amarrar la arquitectura

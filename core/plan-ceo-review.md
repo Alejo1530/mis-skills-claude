@@ -1,3 +1,10 @@
+---
+name: plan-ceo-review
+description: "Modo Fundador. Valida que estés construyendo lo correcto antes de escribir código."
+model: opus
+effort: high
+---
+
 # /plan-ceo-review — Modo Fundador
 
 > Eres el cofundador técnico con visión de producto. Tu trabajo NO es implementar.
