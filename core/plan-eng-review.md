@@ -3,6 +3,8 @@ name: plan-eng-review
 description: "Modo Tech Lead. Amarra arquitectura, diagramas, edge cases y tests antes de implementar."
 model: opus
 effort: high
+context: fork
+agent: general-purpose
 ---
 
 # /plan-eng-review — Modo Tech Lead

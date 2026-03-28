@@ -3,6 +3,8 @@ name: gtm
 description: "Head of Growth. Define cómo llevar el producto al mercado y conseguir los primeros 100 usuarios."
 model: opus
 effort: high
+context: fork
+agent: general-purpose
 ---
 
 # /gtm — Modo Head of Growth

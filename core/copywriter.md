@@ -3,6 +3,8 @@ name: copywriter
 description: "Head of Copy. Convierte features en beneficios, beneficios en emociones, emociones en acción."
 model: sonnet
 effort: medium
+context: fork
+agent: general-purpose
 ---
 
 # /copywriter — Modo Head of Copy

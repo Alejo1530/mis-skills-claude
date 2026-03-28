@@ -3,6 +3,8 @@ name: plan-ceo-review
 description: "Modo Fundador. Valida que estés construyendo lo correcto antes de escribir código."
 model: opus
 effort: high
+context: fork
+agent: general-purpose
 ---
 
 # /plan-ceo-review — Modo Fundador
