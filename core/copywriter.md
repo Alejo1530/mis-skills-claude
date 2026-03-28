@@ -12,8 +12,8 @@ Lee en orden antes de escribir una sola palabra:
 1. `~/.claude/skills/mis-skills/core/VALORES.md`
 2. El `PRODUCTO.md` del producto indicado en `CLAUDE.md`
 3. `CLAUDE.md` del proyecto actual
-4. Output de `/pricing` si existe — necesitas los planes
-5. Output de `/gtm` si existe — necesitas los canales y el lenguaje del usuario
+4. `PRICING_OUTPUT.md` en la raíz del proyecto (si existe — planes, precios y modelo de monetización)
+5. `GTM_OUTPUT.md` en la raíz del proyecto (si existe — canales, lenguaje del usuario y plan de lanzamiento)
 
 ---
 
@@ -228,6 +228,24 @@ Nivel de lectura: [ej: "5° básico"]
 
 ➡️ SIGUIENTE PASO: /plan-ceo-review para validar el copy con visión de producto
 ```
+
+### Paso 6 — Guardar output
+
+Una vez entregado todo el copy, guarda el output en la raíz del proyecto:
+
+```
+📁 GUARDAR OUTPUT:
+
+Escribe el contenido completo de este análisis en el archivo:
+COPYWRITER_OUTPUT.md
+
+Incluye: biblioteca de mensajes, todas las piezas por canal y variantes A/B.
+
+Formato: markdown limpio, listo para ser usado directamente en producción.
+```
+
+> **Instrucción para Claude**: Usa la herramienta Write para crear o sobreescribir
+> `COPYWRITER_OUTPUT.md` en la raíz del proyecto con el output completo de esta sesión.
 
 ---
 
